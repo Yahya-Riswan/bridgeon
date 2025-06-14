@@ -1,0 +1,7 @@
+-Started 1 day with simple Oreintation Classes In Module 1
+-Ended 1 Day Succesfully
+-Started 2 Day With Basics
+-Ended 2 Day With Completing some Task Successfully
+-Started 3 Day With Clone Project
+-Ended 3 Day With Clone Project Successfully
+-Started 4 Day With Review
