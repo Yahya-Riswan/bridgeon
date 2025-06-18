@@ -9,3 +9,7 @@ BRIDGEON SOLUTIONS
 -Started 4 Day With Review <br/>
 -Ended 4 Day With Medium Difficulty in Review<br/>
 -Started 5 Day with Javascript Module 2 <br/>
+-Ended 5 Day with Javascript Module 3 Sets <br/>
+-Started 6 Day with Javascript Module 3th Set <br/>
+-Ended 6 Day with Javascript Module 5th Set <br/>
+-Started 7 Day with Javascript Module Last Set <br/>
